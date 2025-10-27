@@ -18,10 +18,14 @@ Esse é um project [Expo](https://expo.dev) criado com [`create-expo-app`](https
 
 Na saída, você encontrará opções para abrir o aplicativo em:
 
- -Um build de desenvolvimento
- -Um emulador Android
- -Um simulador iOS
- -Expo Go, um sandbox (ambiente de testes) limitado para experimentar o desenvolvimento de aplicativos com Expo
+ -Um build de desenvolvimento: (https://docs.expo.dev/develop/development-builds/introduction/)
+
+ 
+ -Um emulador Android: (https://docs.expo.dev/workflow/android-studio-emulator/)
+ 
+ -Um simulador iOS: (https://docs.expo.dev/workflow/ios-simulator/)
+ 
+ -Expo Go (https://expo.dev/go), um sandbox (ambiente de testes) limitado para experimentar o desenvolvimento de aplicativos com Expo
 
  Você pode começar a desenvolver editando os arquivos dentro do diretório app. Este projeto usa roteamento baseado em arquivos [file-based routing](https://docs.expo.dev/router/introduction).
 
