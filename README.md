@@ -6,7 +6,7 @@ Esse é um project [Expo](https://expo.dev) criado com [`create-expo-app`](https
 
 1. Instalar dependências
 
-   ```bash
+ ```bash
   npm install
   ```
 
